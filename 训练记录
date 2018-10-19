@@ -1,0 +1,57 @@
+2018-10-17 17:11:59.747107: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1490] Adding visible gpu devices: 0, 1
+2018-10-17 17:12:00.522144: I tensorflow/core/common_runtime/gpu/gpu_device.cc:971] Device interconnect StreamExecutor with strength 1 edge matrix:
+2018-10-17 17:12:00.522230: I tensorflow/core/common_runtime/gpu/gpu_device.cc:977]      0 1
+2018-10-17 17:12:00.522242: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 0:   N N
+2018-10-17 17:12:00.522248: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 1:   N N
+2018-10-17 17:12:00.523354: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1103] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 20539 MB memory) -> physical GPU (device: 0, name: Tesla P40, pci bus id: 0000:06:00.0, compute capability: 6.1)
+2018-10-17 17:12:00.525463: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1103] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:1 with 20686 MB memory) -> physical GPU (device: 1, name: Tesla P40, pci bus id: 0000:85:00.0, compute capability: 6.1)
+steps=0, accuracy=0.015625
+steps=100, accuracy=0.046875
+steps=200, accuracy=0.037109
+steps=300, accuracy=0.033203
+steps=400, accuracy=0.042969
+steps=500, accuracy=0.050781
+steps=600, accuracy=0.033203
+steps=700, accuracy=0.050781
+steps=800, accuracy=0.052734
+steps=900, accuracy=0.041016
+steps=1000, accuracy=0.035156
+steps=1100, accuracy=0.042969
+steps=1200, accuracy=0.027344
+steps=1300, accuracy=0.048828
+steps=1400, accuracy=0.039062
+steps=1500, accuracy=0.058594
+steps=1600, accuracy=0.056641
+steps=1700, accuracy=0.056641
+steps=1800, accuracy=0.074219
+steps=1900, accuracy=0.128906
+steps=2000, accuracy=0.148438
+steps=2100, accuracy=0.179688
+steps=2200, accuracy=0.177734
+steps=2300, accuracy=0.283203
+steps=2400, accuracy=0.472656
+steps=2500, accuracy=0.658203
+steps=2600, accuracy=0.750000
+steps=2700, accuracy=0.744141
+steps=2800, accuracy=0.822266
+steps=2900, accuracy=0.826172
+steps=3000, accuracy=0.886719
+steps=3100, accuracy=0.890625
+steps=3200, accuracy=0.886719
+steps=3300, accuracy=0.933594
+steps=3400, accuracy=0.919922
+steps=3500, accuracy=0.958984
+steps=3600, accuracy=0.941406
+steps=3700, accuracy=0.955078
+steps=3800, accuracy=0.966797
+steps=3900, accuracy=0.935547
+steps=4000, accuracy=0.958984
+steps=4100, accuracy=0.980469
+steps=4200, accuracy=0.984375
+steps=4300, accuracy=0.982422
+steps=4400, accuracy=0.984375
+steps=4500, accuracy=0.988281
+steps=4600, accuracy=0.986328
+steps=4700, accuracy=0.988281
+steps=4800, accuracy=0.984375
+steps=4900, accuracy=0.994141
